@@ -4,3 +4,7 @@ Link utilizado como base: [Alura link](https://www.alura.com.br/artigos/django-i
 
 ## Requisitos
 - Python
+
+
+## Iniciando
+`python /manage.py runserver`
